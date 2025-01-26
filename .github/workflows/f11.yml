@@ -25,4 +25,4 @@ pip install pytest
 - name: Run tests
 run: |
 
-python -m pytest addition.py
+python -m pytest add.py
